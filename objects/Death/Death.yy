@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oCamera",
+  "%Name":"Death",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oCamera",
+  "name":"Death",
   "overriddenProperties":[],
   "parent":{
-    "name":"Unused",
-    "path":"folders/Unused.yy",
+    "name":"Enviroment",
+    "path":"folders/Objects/Enviroment.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTestBackground",
-    "path":"sprites/sTestBackground/sTestBackground.yy",
+    "name":"EnemyTest",
+    "path":"sprites/EnemyTest/EnemyTest.yy",
   },
   "spriteMaskId":null,
   "visible":true,

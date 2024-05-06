@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oCamera",
+  "%Name":"Grapplehook",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oCamera",
+  "name":"Grapplehook",
   "overriddenProperties":[],
   "parent":{
-    "name":"Unused",
-    "path":"folders/Unused.yy",
+    "name":"Weapons",
+    "path":"folders/Objects/Weapons/Weapons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTestBackground",
-    "path":"sprites/sTestBackground/sTestBackground.yy",
+    "name":"Grapple",
+    "path":"sprites/Grapple/Grapple.yy",
   },
   "spriteMaskId":null,
   "visible":true,

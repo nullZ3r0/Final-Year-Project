@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oCamera",
+  "%Name":"Curser",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oCamera",
+  "name":"Curser",
   "overriddenProperties":[],
   "parent":{
-    "name":"Unused",
-    "path":"folders/Unused.yy",
+    "name":"PC",
+    "path":"folders/Objects/PC.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTestBackground",
-    "path":"sprites/sTestBackground/sTestBackground.yy",
+    "name":"PlayerCurser",
+    "path":"sprites/PlayerCurser/PlayerCurser.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oCamera",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"TestWall",
+  "eventList":[],
   "managed":true,
-  "name":"oCamera",
+  "name":"TestWall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Unused",
-    "path":"folders/Unused.yy",
+    "name":"Enviroment",
+    "path":"folders/Objects/Enviroment.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTestBackground",
-    "path":"sprites/sTestBackground/sTestBackground.yy",
+    "name":"BlockTest",
+    "path":"sprites/BlockTest/BlockTest.yy",
   },
   "spriteMaskId":null,
   "visible":true,
