@@ -1,2 +1,3 @@
-new_room = noone;
-RoomName = noone;
+Name = "PLACEHOLDER TEXT";
+newX = 0
+newY = 0

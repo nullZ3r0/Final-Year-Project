@@ -4,6 +4,9 @@ if (distance_to_object(Player) < 10)
 {
 	if (switch_key)
 	{
-		room_goto(new_room)
+		Player.x = newX
+		Player.y = newY
+		Player.Checkpoint[0] = newX
+		Player.Checkpoint[1] = newY
 	}
 }

@@ -30,3 +30,6 @@ Grounded = true;
 
 // Player weapon states 
 WeaponEquipped = "Empty"
+
+// Checkpoint
+Checkpoint = [0,0]
